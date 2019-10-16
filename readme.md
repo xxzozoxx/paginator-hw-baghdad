@@ -1,4 +1,4 @@
-# Pagination
+# Pagination Homework
 ## Write a Javascript object class to handle pagination.
 
 **Pagination** helps to make it easier to navigate a long *list of data*.
