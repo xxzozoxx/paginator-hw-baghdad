@@ -43,4 +43,7 @@ class Paginator {
         if (this.currentPage === 0) { console.log('this is the first page') }
         return this.page[this.currentPage]
     }
+    currentPage() {
+        return this.page[this.currentPage];
+    }
 }
